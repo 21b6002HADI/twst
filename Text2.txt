@@ -1,0 +1,32 @@
+Database structure 
+Roles (table)
+admins- can access everything
+editors can edit to own articles or upload 
+user Users can only comments on articles 
+
+list of articles  (table)
+ >article content (table)
+    >image link ( host image in website folder) (a col)
+Maybe
+admins can approve or reject articles
+
+features
+embded youtube links (db stores meta data)
+banners (Col to store banner image links)
+audiobooks (Store samples on server)
+Search func (tbd) (exact search or search tags) /(autocomplete)- (fe)
+links to social media (fe)
+
+stats
+webform will have login page
+share users 
+
+link to show stats
+
+interface (tbd)
+
+<yt>Connect to first link db table<>
+
+
+
+
